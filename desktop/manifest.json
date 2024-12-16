@@ -13,9 +13,29 @@
     "stable": {}
   },
   "windows": {
-    "block": [],
-    "blockcanskip": [],
-    "beta": {},
-    "stable": {}
+    "block": [
+      "0.0.1"
+    ],
+    "blockcanskip": [
+      "0.0.2"
+    ],
+    "beta": {
+      "version": "0.0.3",
+      "link": "https://nextcloud.2kk.uk/f/3059",
+      "details": "",
+      "update": {
+        "warnalways": "0.0.2",
+        "updateonly": "0.0.1"
+      }
+    },
+    "stable": {
+      "version": "0.0.3",
+      "link": "https://nextcloud.2kk.uk/f/3059",
+      "details": "",
+      "update": {
+        "warnalways": "0.0.2",
+        "updateonly": "0.0.1"
+      }
+    }
   }
 }
