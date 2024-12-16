@@ -1,0 +1,21 @@
+{
+  "app":"happ_desktop",
+  "linux": {
+    "block": [],
+    "blockcanskip": [],
+    "beta": {},
+    "stable": {}
+  },
+  "macos": {
+    "block": [],
+    "blockcanskip": [],
+    "beta": {},
+    "stable": {}
+  },
+  "windows": {
+    "block": [],
+    "blockcanskip": [],
+    "beta": {},
+    "stable": {}
+  }
+}

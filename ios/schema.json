@@ -1,0 +1,25 @@
+{
+  "type": "object",
+  "properties": {
+    "app": {
+      "type": "string"
+    },
+    "appstore": {
+      "type": "object",
+      "properties": {
+        "block": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "blockcanskip": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}

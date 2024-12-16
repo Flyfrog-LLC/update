@@ -1,0 +1,141 @@
+{
+  "type": "object",
+  "properties": {
+    "app": {
+      "type": "string"
+    },
+    "ret": {
+      "type": "integer"
+    },
+    "msg": {
+      "type": "string"
+    },
+    "data": {
+      "type": "string"
+    },
+    "link": {
+      "type": "string"
+    },
+    "details": {
+      "type": "string"
+    },
+    "filenum": {
+      "type": "integer"
+    },
+    "apk": {
+      "type": "object",
+      "properties": {
+        "block": {
+          "type": "array"
+        },
+        "beta": {
+          "type": "object",
+          "properties": {
+            "version": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "details": {
+              "type": "string"
+            },
+            "update": {
+              "type": "object",
+              "properties": {
+                "nowarn": {
+                  "type": "string"
+                },
+                "warnonce": {
+                  "type": "string"
+                },
+                "warnweek": {
+                  "type": "string"
+                },
+                "warnalways": {
+                  "type": "string"
+                },
+                "updateonly": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        },
+        "stable": {
+          "type": "object",
+          "properties": {
+            "version": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "details": {
+              "type": "string"
+            },
+            "update": {
+              "type": "object",
+              "properties": {
+                "nowarn": {
+                  "type": "string"
+                },
+                "warnonce": {
+                  "type": "string"
+                },
+                "warnweek": {
+                  "type": "string"
+                },
+                "warnalways": {
+                  "type": "string"
+                },
+                "updateonly": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "google": {
+      "type": "object",
+      "properties": {
+        "block": {
+          "type": "array"
+        },
+        "stable": {
+          "type": "object",
+          "properties": {
+            "version": {
+              "type": "string"
+            },
+            "details": {
+              "type": "string"
+            },
+            "update": {
+              "type": "object",
+              "properties": {
+                "nowarn": {
+                  "type": "string"
+                },
+                "warnonce": {
+                  "type": "string"
+                },
+                "warnweek": {
+                  "type": "string"
+                },
+                "warnalways": {
+                  "type": "string"
+                },
+                "updateonly": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
