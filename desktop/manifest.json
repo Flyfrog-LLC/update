@@ -33,7 +33,7 @@
       "link": "https://nextcloud.2kk.uk/f/3059",
       "details": "",
       "update": {
-        "warnalways": "0.0.2",
+        "warnalways": "0.0.4",
         "updateonly": "0.0.1"
       }
     }
