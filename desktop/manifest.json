@@ -20,21 +20,21 @@
       "0.0.4"
     ],
     "beta": {
-      "version": "0.0.3",
-      "link": "https://nextcloud.2kk.uk/f/3059",
+      "version": "0.0.6",
+      "link": "https://github.com/Flyfrog-LLC/Happ-Desktop-Release/releases/download/alpha_0.0.6/Happ.win.x86.alpha.7z",
       "details": "",
       "update": {
-        "warnalways": "0.0.2",
-        "updateonly": "0.0.1"
+        "warnalways": "0.0.5",
+        "updateonly": "0.0.4"
       }
     },
     "stable": {
-      "version": "0.0.3",
-      "link": "https://nextcloud.2kk.uk/f/3059",
+      "version": "0.0.6",
+      "link": "https://github.com/Flyfrog-LLC/Happ-Desktop-Release/releases/download/alpha_0.0.6/Happ.win.x86.alpha.7z",
       "details": "",
       "update": {
-        "warnalways": "0.0.2",
-        "updateonly": "0.0.2"
+        "warnalways": "0.0.5",
+        "updateonly": "0.0.4"
       }
     }
   }
