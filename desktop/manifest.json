@@ -14,27 +14,27 @@
   },
   "windows": {
     "block": [
-      "0.0.9"
+      "0.0.10"
     ],
     "blockcanskip": [
-      "0.0.8"
+      "0.0.10"
     ],
     "beta": {
-      "version": "0.0.9",
+      "version": "0.0.10",
       "link": "https://github.com/Flyfrog-LLC/Happ-Desktop-Release/releases/latest/download/Happ.win.x86.alpha.7z",
       "details": "",
       "update": {
-        "warnalways": "0.0.9",
-        "updateonly": "0.0.9"
+        "warnalways": "0.0.10",
+        "updateonly": "0.0.10"
       }
     },
     "stable": {
-      "version": "0.0.9",
+      "version": "0.0.10",
       "link": "https://github.com/Flyfrog-LLC/Happ-Desktop-Release/releases/latest/download/Happ.win.x86.alpha.7z",
       "details": "",
       "update": {
-        "warnalways": "0.0.9",
-        "updateonly": "0.0.9"
+        "warnalways": "0.0.10",
+        "updateonly": "0.0.10"
       }
     }
   }
